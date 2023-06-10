@@ -1,16 +1,16 @@
 # *Hi there 👋🏻*
 
 ## About Me
-- 📚 Currently learning UI frameworks, JavaScript frameworks, web animations and interactivity
-- ⚡ Excited to create projects with VueJs and Laravel
-- 📫 You can reach me at my instagram [@erickchandra___](https://instagram.com/erickchandra___)
+- 📚 Currently learning CSS frameworks and JavaScript frameworks
+- ⚡ I am a beginner programmer
+- 📫 You can reach me at my instagram [@alexyangreynaldo](https://instagram.com/alexyangreynaldo)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erickchann)](https://github.com/erickchann/erickchann)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchannn)](https://github.com/alexchannn/alexchannn)
 
 ---
 
 ## Here is tech stacks I know and use 🛠
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickchann&langs_count=10" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchannn&langs_count=10" align="right">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;

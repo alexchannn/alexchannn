@@ -1,4 +1,4 @@
-# *Hi there 👋🏻*
+# *Moshi moshi 👋🏻*
 
 ## About Me
 - 📚 Currently learning CSS frameworks and JavaScript frameworks

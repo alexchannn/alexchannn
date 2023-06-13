@@ -1,8 +1,8 @@
 # *Moshi moshi 👋🏻*
 
 ## About Me
-- 📚 Currently learning CSS frameworks and JavaScript frameworks
-- ⚡ I am a beginner programmer
+- 📚 I am a beginner programmer
+- ⚡ Currently learning CSS frameworks and JavaScript frameworks
 - 📫 You can reach me at my instagram [@alexyangreynaldo](https://instagram.com/alexyangreynaldo)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchannn)](https://github.com/alexchannn/alexchannn)

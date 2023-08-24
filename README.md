@@ -29,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-2f1a47?style=flat&logo=MySQL)&nbsp;
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=Bootstrap)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-2f1a47?style=flat&logo=Sass)&nbsp;
 ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=Tailwind%20CSS)&nbsp;
 ![Material%20Design%20Icons](https://img.shields.io/badge/-Material%20Design%20Icons-2f1a47?style=flat&logo=Material%20Design%20Icons)&nbsp;
 

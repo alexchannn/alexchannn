@@ -17,6 +17,9 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
 
+![C#](https://img.shields.io/badge/-C#-2f1a47?style=flat&logo=C#)&nbsp;
+![Python](https://img.shields.io/badge/-Python-2f1a47?style=flat&logo=Python)&nbsp;
+
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-2f1a47?style=flat&logo=Node.js)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-2f1a47?style=flat&logo=npm)&nbsp;

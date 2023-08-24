@@ -19,6 +19,7 @@
 
 ![C#](https://img.shields.io/badge/-Csharp-2f1a47?style=flat&logo=Csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-2f1a47?style=flat&logo=Python)&nbsp;
+![Visual%20Studio](https://img.shields.io/badge/-Visual%20Studio-2f1a47?style=flat&logo=Visual%20Studio)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-2f1a47?style=flat&logo=Node.js)&nbsp;

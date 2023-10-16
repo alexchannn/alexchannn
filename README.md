@@ -45,4 +45,4 @@
 
 ### Profile views counter? _pog_
 
-![Profile counter](https://moe-counter.glitch.me/get/@edqe14)
+![Profile counter](https://moe-counter.glitch.me/get/@alexchannn)

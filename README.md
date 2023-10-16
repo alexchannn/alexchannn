@@ -5,8 +5,8 @@
 - ⚡ Currently learning CSS frameworks and JavaScript frameworks
 - 📫 You can reach me at my instagram [@alexyangreynaldo](https://instagram.com/alexyangreynaldo)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchannn)](https://github.com/alexchannn/alexchannn)
-
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchannn)](https://github.com/alexchannn/alexchannn) -->
+<img src="https://github-readme-stats.vercel.app/api?username=alexchannn&show_icons=true&theme=light">
 ---
 
 ## Here is tech stacks I know and use 🛠

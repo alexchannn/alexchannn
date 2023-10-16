@@ -6,8 +6,8 @@
 - 📫 You can reach me at my instagram [@alexyangreynaldo](https://instagram.com/alexyangreynaldo)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchannn)](https://github.com/alexchannn/alexchannn) -->
-<img src="https://github-readme-stats.vercel.app/api?username=alexchannn&show_icons=true&theme=light">
----
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=alexchannn&show_icons=true&theme=light"> -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchannn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Here is tech stacks I know and use 🛠
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchannn" align="right">
@@ -42,3 +42,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=Postman)&nbsp;
 ![Adobe%20Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-2f1a47?style=flat&logo=Adobe%20Photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=Figma)&nbsp;
+
+### Profile views counter? _pog_
+
+![Profile counter](https://moe-counter.glitch.me/get/@edqe14)

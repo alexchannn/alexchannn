@@ -10,7 +10,7 @@
 ---
 
 ## Here is tech stacks I know and use 🛠
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchannn&langs_count=10" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=alexchannn&show_icons=true&theme=light">
 
 ![HTML](https://img.shields.io/badge/-HTML-2f1a47?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-2f1a47?style=flat&logo=CSS3)&nbsp;
